@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T11:35:00.307Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="dkk8RRnYRjLo695ojUGx" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-01T11:35:27.750Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="_iNdAwICOC42mSDgtBc6" version="22.0.8" type="github" pages="2">
   <diagram name="1.1" id="YPuKI9BkTwCx2XzhcA0J">
     <mxGraphModel dx="1721" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -280,6 +280,9 @@
         </mxCell>
         <mxCell id="Xwh59bBX_k1TpnbfAOfd-65" value="Brute force attack" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="143" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xwh59bBX_k1TpnbfAOfd-67" value="1) Identify attack vectors" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="432" y="10" width="238" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
