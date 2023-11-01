@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T14:45:44.391Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Q6fJh95oZUuYGtjZYTlT" version="22.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-01T14:45:50.930Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="vB-JYEH6BIR2Q4cnlqf-" version="22.0.8" type="github" pages="4">
   <diagram name="1.1" id="YPuKI9BkTwCx2XzhcA0J">
     <mxGraphModel dx="1806" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -675,7 +675,7 @@
         <mxCell id="UCo7JR6OzrehsTZfYT0z-22" value="In the traditional approach to API security, we wait until deployment to find vulnerabilities, and repeat the cycle many times" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;" vertex="1" parent="1">
           <mxGeometry x="20" y="100" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="UCo7JR6OzrehsTZfYT0z-23" value="With security by design, we address security in every step of the development cycle, so we find less issues at the end and we have less iterations" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;" vertex="1" parent="1">
+        <mxCell id="UCo7JR6OzrehsTZfYT0z-23" value="With security by design, we address security in every step of the development cycle, so we find less issues at the end and we need less iterations" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;" vertex="1" parent="1">
           <mxGeometry x="30" y="370" width="240" height="90" as="geometry" />
         </mxCell>
       </root>
