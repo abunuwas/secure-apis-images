@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T14:45:50.930Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="vB-JYEH6BIR2Q4cnlqf-" version="22.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-01T14:46:09.595Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="BbvTvmrEiLCuazyGki44" version="22.0.8" type="github" pages="4">
   <diagram name="1.1" id="YPuKI9BkTwCx2XzhcA0J">
     <mxGraphModel dx="1806" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -579,19 +579,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UCo7JR6OzrehsTZfYT0z-1" value="API Design" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UCo7JR6OzrehsTZfYT0z-1" value="API Design" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UCo7JR6OzrehsTZfYT0z-2" value="API Implementation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UCo7JR6OzrehsTZfYT0z-2" value="API Implementation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="260" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UCo7JR6OzrehsTZfYT0z-3" value="Deployment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UCo7JR6OzrehsTZfYT0z-3" value="Deployment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="480" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UCo7JR6OzrehsTZfYT0z-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UCo7JR6OzrehsTZfYT0z-4" target="UCo7JR6OzrehsTZfYT0z-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UCo7JR6OzrehsTZfYT0z-4" value="Security Testing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UCo7JR6OzrehsTZfYT0z-4" value="Security Testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="700" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UCo7JR6OzrehsTZfYT0z-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -621,19 +621,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UCo7JR6OzrehsTZfYT0z-9" value="Secure API Design" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UCo7JR6OzrehsTZfYT0z-9" value="Secure API Design" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="40" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UCo7JR6OzrehsTZfYT0z-10" value="Secure API Implementation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UCo7JR6OzrehsTZfYT0z-10" value="Secure API Implementation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="260" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UCo7JR6OzrehsTZfYT0z-11" value="Deployment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UCo7JR6OzrehsTZfYT0z-11" value="Deployment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="480" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UCo7JR6OzrehsTZfYT0z-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UCo7JR6OzrehsTZfYT0z-12" target="UCo7JR6OzrehsTZfYT0z-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UCo7JR6OzrehsTZfYT0z-12" value="Security Testing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UCo7JR6OzrehsTZfYT0z-12" value="Security Testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="700" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UCo7JR6OzrehsTZfYT0z-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
