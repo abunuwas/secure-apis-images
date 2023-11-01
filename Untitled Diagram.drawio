@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T11:56:33.354Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="MP1kUOmcZvt2SzM6BWGd" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-01T11:58:30.952Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="XllSDGTkWIE6iot15rwh" version="22.0.8" type="github" pages="2">
   <diagram name="1.1" id="YPuKI9BkTwCx2XzhcA0J">
     <mxGraphModel dx="1806" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -450,6 +450,12 @@
             <mxPoint x="675.75" y="390" as="sourcePoint" />
             <mxPoint x="675.75" y="420" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2Vn2H--d0fLFqWFSrph6-14" value="We harden the API design to prevent SQL injection strings and we deploy an API Gateway for further protection and monitoring" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="370" y="430" width="390" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2Vn2H--d0fLFqWFSrph6-15" value="We prevent brute force attacks against the database by deploying it to a private network" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=default;strokeColor=default;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="568" y="578.25" width="147" height="73.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
