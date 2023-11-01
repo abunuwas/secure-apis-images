@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T10:45:33.813Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="bEMg-iie3cmjim5DD8Gm" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T10:56:00.464Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="6cicayBInRFPcll8HlJl" version="22.0.8" type="github">
   <diagram name="Page-1" id="YPuKI9BkTwCx2XzhcA0J">
-    <mxGraphModel dx="871" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1721" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,7 +53,7 @@
         </mxCell>
         <mxCell id="cVJbW0_bnZpQG-4_vaWY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cVJbW0_bnZpQG-4_vaWY-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="630" as="targetPoint" />
+            <mxPoint x="200" y="630" as="targetPoint" />
             <Array as="points">
               <mxPoint x="115" y="630" />
             </Array>
@@ -150,6 +150,63 @@
               <mxPoint x="355" y="540" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cVJbW0_bnZpQG-4_vaWY-85" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="cVJbW0_bnZpQG-4_vaWY-76" target="cVJbW0_bnZpQG-4_vaWY-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="420" />
+              <mxPoint x="160" y="447" />
+              <mxPoint x="171" y="447" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVJbW0_bnZpQG-4_vaWY-76" value="The API design must expose safe user flows and fend off threats like SQL injection attacks" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-23" y="400" width="163" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="cVJbW0_bnZpQG-4_vaWY-77" value="An API Gateway can do a great job at preventing certain types of API attacks and providing usage analytics" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="310" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVJbW0_bnZpQG-4_vaWY-79" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="cVJbW0_bnZpQG-4_vaWY-77" target="cVJbW0_bnZpQG-4_vaWY-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVJbW0_bnZpQG-4_vaWY-80" value="Firewalls ensure that only allowed traffic makes its way to our servers" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="690" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cVJbW0_bnZpQG-4_vaWY-81" value="Load balancers distribute the load among different instances to avoid overwhelming them" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="300" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cVJbW0_bnZpQG-4_vaWY-88" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="cVJbW0_bnZpQG-4_vaWY-82" target="cVJbW0_bnZpQG-4_vaWY-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVJbW0_bnZpQG-4_vaWY-82" value="Network topology is crucial - by placing sensitive resources in private networks we keep them safe" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="710" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cVJbW0_bnZpQG-4_vaWY-89" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="cVJbW0_bnZpQG-4_vaWY-83" target="cVJbW0_bnZpQG-4_vaWY-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="715" />
+              <mxPoint x="550" y="670" />
+              <mxPoint x="459" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVJbW0_bnZpQG-4_vaWY-83" value="Robust implementation patterns based on zero-trust security ensure our data is handled securely" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="567" y="690" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cVJbW0_bnZpQG-4_vaWY-84" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.855;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="cVJbW0_bnZpQG-4_vaWY-81" target="cVJbW0_bnZpQG-4_vaWY-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="455" y="370" />
+              <mxPoint x="410" y="370" />
+              <mxPoint x="410" y="442" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVJbW0_bnZpQG-4_vaWY-86" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.368;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="cVJbW0_bnZpQG-4_vaWY-80" target="cVJbW0_bnZpQG-4_vaWY-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVJbW0_bnZpQG-4_vaWY-87" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.148;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="cVJbW0_bnZpQG-4_vaWY-82" target="cVJbW0_bnZpQG-4_vaWY-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
