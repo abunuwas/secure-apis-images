@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T06:35:57.045Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="yusg9-x1hBb_tHSwrEyC" version="22.0.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-02T06:47:59.126Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="7deljIuY6AJBNFZrTMWp" version="22.0.8" type="github" pages="6">
   <diagram name="1.1" id="YPuKI9BkTwCx2XzhcA0J">
     <mxGraphModel dx="1806" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -752,7 +752,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9fa4QFNmPtCUaPgkLIjQ" name="1.6">
-    <mxGraphModel dx="1434" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="956" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -785,6 +785,30 @@
             <mxPoint x="635" y="229.5" as="sourcePoint" />
             <mxPoint x="665" y="229.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pCCNYjAQUiZdwWCSIs1q-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pCCNYjAQUiZdwWCSIs1q-12" target="pCCNYjAQUiZdwWCSIs1q-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCCNYjAQUiZdwWCSIs1q-12" value="- Expose safe user flows&lt;br&gt;- Constrain user input&lt;br&gt;- Proper pagination&lt;br&gt;- Clear boundaries&lt;br&gt;- Strict schemas&lt;br&gt;- Test the design for security" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=10;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="40" width="175" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pCCNYjAQUiZdwWCSIs1q-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pCCNYjAQUiZdwWCSIs1q-13" target="pCCNYjAQUiZdwWCSIs1q-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCCNYjAQUiZdwWCSIs1q-13" value="- Parametrize database queries&lt;br&gt;- Validate incoming and outgoing data (zero-trust)&lt;br&gt;- Data Transfer Objects (DTOs)&lt;br&gt;- Use robust and up to date libraries and frameworks" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=10;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="30" width="175" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pCCNYjAQUiZdwWCSIs1q-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pCCNYjAQUiZdwWCSIs1q-14" target="pCCNYjAQUiZdwWCSIs1q-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCCNYjAQUiZdwWCSIs1q-14" value="- Unit tests&lt;br&gt;- Fuzzy testers&lt;br&gt;- End-to-end tests&lt;br&gt;- Contract-testing" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=10;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="60" width="135" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pCCNYjAQUiZdwWCSIs1q-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pCCNYjAQUiZdwWCSIs1q-15" target="pCCNYjAQUiZdwWCSIs1q-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCCNYjAQUiZdwWCSIs1q-15" value="- Test and validate before deployment&lt;br&gt;- Graceful rollouts&lt;br&gt;- Observability" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=10;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="60" width="135" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
