@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T05:59:37.534Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="EI-qrC0o4Yx6GPBpi3P3" version="22.0.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-02T06:04:06.022Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="j_cghvtwlKmpkF6dZ9XI" version="22.0.8" type="github" pages="5">
   <diagram name="1.1" id="YPuKI9BkTwCx2XzhcA0J">
     <mxGraphModel dx="1806" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -701,17 +701,26 @@
         <mxCell id="0jDDVkLNFubjRePYCWn--6" value="GET /admin/users" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;spacingLeft=10;" vertex="1" parent="1">
           <mxGeometry x="55" y="360" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0jDDVkLNFubjRePYCWn--7" value="URL Paths&lt;br&gt;&lt;br&gt;/products&lt;br&gt;/orders&lt;br&gt;/users&lt;br&gt;/admin/users" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0jDDVkLNFubjRePYCWn--7" value="/products&lt;br&gt;/orders&lt;br&gt;/users&lt;br&gt;/admin/users" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="340" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="0jDDVkLNFubjRePYCWn--8" value="Query and Path Parameters&lt;br&gt;&lt;br&gt;/products:&lt;br&gt;page&lt;br&gt;perPage&lt;br&gt;filter&lt;br&gt;sort_param&lt;br&gt;sort_order" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0jDDVkLNFubjRePYCWn--8" value="&lt;br&gt;&lt;br&gt;/products:&lt;br&gt;page&lt;br&gt;perPage&lt;br&gt;filter&lt;br&gt;sort_param&lt;br&gt;sort_order" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="340" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="0jDDVkLNFubjRePYCWn--10" value="Request Headers&lt;br&gt;&lt;br&gt;X-User-Type" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0jDDVkLNFubjRePYCWn--10" value="&lt;br&gt;&lt;br&gt;X-User-Type" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="480" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0jDDVkLNFubjRePYCWn--11" value="Request Payloads" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="540" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0jDDVkLNFubjRePYCWn--12" value="URL Paths" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0jDDVkLNFubjRePYCWn--13" value="Query and Path Parameters" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="340" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0jDDVkLNFubjRePYCWn--14" value="Request Headers" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="480" width="320" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
